@@ -5,12 +5,12 @@
 
 }
 body{
-    background-color:faedcd;
+    background-color:lightslategray;
     background-attachment: scroll;
 }
 .nav{
     display:flex;
-    background-color:ccd5ae;
+    background-color:lightpink;
     width: 100vw;
     justify-content:space-evenly;
     padding: 4px;
