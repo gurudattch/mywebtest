@@ -6,7 +6,7 @@ function dark(){
     
 }
 function white(){
-    document.getElementById('body').style.backgroundColor="lightslategrey"
+    document.getElementById('body').style.backgroundColor="#ffb703"
     document.getElementById('btn').style.marginLeft="-15px"
     document.getElementById('btn').innerHTML = "0";
 }

@@ -5,12 +5,12 @@
 
 }
 body{
-    background-color:lightslategray;
+    background-color:#ffb703;
     background-attachment: scroll;
 }
 .nav{
     display:flex;
-    background-color:lightpink;
+    background-color:#023047;
     width: 100vw;
     justify-content:space-evenly;
     padding: 4px;
@@ -111,7 +111,7 @@ button{
 
     border: none;
     border-radius: 50%;
-    background-color: peru;
+    background-color:#8ecae6;
     margin-left:-15px;
 }
 ul{
